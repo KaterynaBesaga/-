@@ -6,8 +6,8 @@
 
 1. Записати (придумати) матрицю суміжності орієнтованого графа `G={5,9}`. Ввести її у лабораторний макет та побудувати візуальне представлення графа.
    
-   ![матриця суміжності](https://github.com/osyka-oleksandr/osyka_lab_totk_2021/blob/main/lab-2/Screenshot%20from%202021-04-06%2000-04-28.png)
-   ![граф](https://github.com/osyka-oleksandr/osyka_lab_totk_2021/blob/main/lab-2/Screenshot%20from%202021-04-06%2000-04-50.png)
+   ![матриця суміжності](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc2.png )
+   ![граф](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc1.png)
    
     1. Чи є у побудованому графі ізольовані вершини або незв’язні компоненти? *Tак* - назвіть їх; *Hі* - які ребра потрібно видалити щоб вони утворились? 
     
