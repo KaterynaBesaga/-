@@ -27,9 +27,9 @@
 
     6. Побудувати доповнення (обернений) графа `G`.
 
-    ![vffg](https://github.com/osyka-oleksandr/osyka_lab_totk_2021/blob/main/lab-2/Screenshot%20from%202021-04-18%2023-33-20.png)
+    ![vffg](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc4.png)
 
-    ![fg](https://github.com/osyka-oleksandr/osyka_lab_totk_2021/blob/main/lab-2/Screenshot%20from%202021-04-18%2023-33-02.png)
+    ![fg](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc3.png)
 
 1. За допомогою лабораторного макету побудувати випадковий неорієнтований граф `G={7,15}` та записати його матрицю суміжності.
  
