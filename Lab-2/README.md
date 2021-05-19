@@ -33,15 +33,35 @@
 
 1. За допомогою лабораторного макету побудувати випадковий неорієнтований граф `G={7,15}` та записати його матрицю суміжності.
  
- ![граф](https://github.com/osyka-oleksandr/osyka_lab_totk_2021/blob/main/lab-2/Screenshot%20from%202021-04-06%2000-52-23.png)
+ ![граф](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc5.png)
  
- ![матриця суміжності](https://github.com/osyka-oleksandr/osyka_lab_totk_2021/blob/main/lab-2/Screenshot%20from%202021-04-06%2000-52-42.png)
-	
+ ![матриця суміжності](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc6.png)
+ 
+ i.Як зміниться топологія графа (структурні зв’язки), якщо циклічно зсунуту вправо 2 стовпці у матриці суміжностей?
+  ![граф](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc7.png)
+ 
+![матриця суміжності](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc8.png)
+
+ii. Як зміниться топологія графа (структурні зв’язки),
+
+а) Якщо всі елементи над діагоналлю перетворити в 1? 
+
+
+   ![vffg](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc9.png)
+   
+  ![fg](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc10.png)
+
+б) Якщо всі елементи під діагоналлю перетворити в 0?
+
+ ![vffg](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc11.png)
+ 
+![граф] (https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc12.png)
+	 
 1. За допомогою лабораторного макету побудувати випадковий орієнтований граф `G={5,10}` та записати його матрицю відповідностей (інцедентності).
 
-![alt](https://github.com/osyka-oleksandr/osyka_lab_totk_2021/blob/main/lab-2/Screenshot%20from%202021-04-18%2023-42-47.png)
+![alt](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc13.png)
 
-![alt](https://github.com/osyka-oleksandr/osyka_lab_totk_2021/blob/main/lab-2/Screenshot%20from%202021-04-18%2023-42-25.png)
+![alt](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc14.png)
 
 	1. Як з матриці відповідностей можна визначити ступінь кожної вершини?
 
@@ -57,15 +77,15 @@
     
     **Граф G**
 
-    ![матриця суміжності G](https://github.com/osyka-oleksandr/osyka_lab_totk_2021/blob/main/lab-2/Screenshot%20from%202021-04-17%2013-46-14.png)
+    ![матриця суміжності G](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc15.png)
 
-    ![граф G](https://github.com/osyka-oleksandr/osyka_lab_totk_2021/blob/main/lab-2/Screenshot%20from%202021-04-17%2013-46-31.png)
+    ![граф G](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc16.png)
 
     **Граф M**
 
-    ![граф M](https://github.com/osyka-oleksandr/osyka_lab_totk_2021/blob/main/lab-2/Screenshot%20from%202021-04-17%2013-23-56.png)
+    ![граф M](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc17.png)
 
-    ![матриця суміжності M](https://github.com/osyka-oleksandr/osyka_lab_totk_2021/blob/main/lab-2/Screenshot%20from%202021-04-17%2013-23-42.png)
+    ![матриця суміжності M](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-2/sc18.png)
 
 
     2. Графи орієнтовані чи неорієнтовані? 
