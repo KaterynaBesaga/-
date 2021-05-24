@@ -20,18 +20,13 @@ a) Побудувати дерево за алгоритмом обходу в �
 ### 2) За допомогою лабораторного макету побудувати випадковий орієнтований граф G={6,10}:
 ![image](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-3/sc3.jpg)
 
-а) Побудувати дерево за алгоритмом обходу в ширину (BFS):
-![image](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-3/sc4.jpg)
-б) 4 вершина - остання.
-в) 58 хвилин.
-
 г) Побудувати дерево за алгоритмом обходу в глибину (DFS);
-![image](https://github.com/offtarget/basics-of-telecommunications/blob/main/lab3/7.png)
+![image](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-3/sc3.jpg)
 
 ### 3) Побудувати дерево шляхів рангом r=4 для випадкового графа G={6,9}.
-![image](https://github.com/offtarget/basics-of-telecommunications/blob/main/lab3/8.png)
+![image](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-3/sc4.jpg)
 
 ### 4) Побудувати мінімальне зв’язне дерево для графа G. Вказати його вагу
-![image](https://github.com/offtarget/basics-of-telecommunications/blob/main/lab3/9.png)
+![image](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-3/sc5.jpg)
 
-* Вага: 12+8+5+8+15=48
+* Вага: 48
