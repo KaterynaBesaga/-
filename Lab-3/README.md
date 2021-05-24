@@ -6,7 +6,7 @@
 
 ## Виконання роботи:
 ### 1) За допомогою лабораторного макету побудувати випадковий неорієнтований граф G={8,12}:
-![image](https://github.com/offtarget/basics-of-telecommunications/blob/main/lab3/1.png)
+![image](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-3/sc30.png)
 
 a) Побудувати дерево за алгоритмом обходу в ширину (BFS); (для 2-х різних вершин)
 ![image](https://github.com/offtarget/basics-of-telecommunications/blob/main/lab3/2.png)
