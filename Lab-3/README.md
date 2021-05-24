@@ -21,7 +21,7 @@ a) Побудувати дерево за алгоритмом обходу в �
 ![image](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-3/sc3.jpg)
 
 а) Побудувати дерево за алгоритмом обходу в ширину (BFS):
-![image](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-3/sc4.jpg
+![image](https://github.com/KaterynaBesaga/besaga---Lab---TOTK---2021-/blob/main/Lab-3/sc4.jpg)
 б) 4 вершина - остання.
 в) 58 хвилин.
 
